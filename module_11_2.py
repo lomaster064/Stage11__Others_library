@@ -31,7 +31,6 @@ class Example:
         pass
 
 
-# Пример использования
 number_info = introspection(13)
 print(number_info)
 
